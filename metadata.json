@@ -1,0 +1,5 @@
+{
+  "name": "KiteSurfing School Booking",
+  "description": "A comprehensive booking platform for a kitesurfing school, allowing users to book lessons, rent equipment, and manage their reservations. The application also includes a full-featured admin panel for managing availability and bookings.",
+  "requestFramePermissions": []
+}
